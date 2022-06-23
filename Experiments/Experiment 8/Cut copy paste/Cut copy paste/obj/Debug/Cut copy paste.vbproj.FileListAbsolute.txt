@@ -1,0 +1,14 @@
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\GUI application developement\Cut copy paste\Cut copy paste\bin\Debug\Cut copy paste.exe.config
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\GUI application developement\Cut copy paste\Cut copy paste\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\GUI application developement\Cut copy paste\Cut copy paste\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\GUI application developement\Cut copy paste\Cut copy paste\obj\Debug\Cut copy paste.vbproj.GenerateResource.Cache
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\GUI application developement\Cut copy paste\Cut copy paste\bin\Debug\Cut copy paste.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\GUI application developement\Cut copy paste\Cut copy paste\bin\Debug\Cut copy paste.pdb
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\GUI application developement\Cut copy paste\Cut copy paste\bin\Debug\Cut copy paste.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\GUI application developement\Cut copy paste\Cut copy paste\obj\Debug\Cut copy paste.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\GUI application developement\Cut copy paste\Cut copy paste\obj\Debug\Cut copy paste.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\GUI application developement\Cut copy paste\Cut copy paste\obj\Debug\Cut copy paste.pdb
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 8\Cut copy paste\Cut copy paste\bin\Debug\Cut copy paste.exe.config
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 8\Cut copy paste\Cut copy paste\obj\Debug\Cut copy paste.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 8\Cut copy paste\Cut copy paste\obj\Debug\Cut copy paste.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 8\Cut copy paste\Cut copy paste\obj\Debug\Cut copy paste.pdb

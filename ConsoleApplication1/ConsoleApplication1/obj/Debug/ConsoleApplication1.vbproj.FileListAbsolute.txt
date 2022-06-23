@@ -1,0 +1,18 @@
+C:\Users\admin\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\admin\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\admin\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\admin\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\admin\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\admin\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\26_33_GAD\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\26_33_GAD\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\26_33_GAD\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+D:\26_33_GAD\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\26_33_GAD\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\26_33_GAD\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\26_33_GAD\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+D:\26_33_GAD\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+D:\26_33_GAD\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache

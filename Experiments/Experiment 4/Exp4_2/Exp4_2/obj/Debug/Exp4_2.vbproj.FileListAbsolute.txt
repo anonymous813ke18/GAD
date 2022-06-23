@@ -1,0 +1,9 @@
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 4\Exp4_2\Exp4_2\bin\Debug\Exp4_2.exe.config
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 4\Exp4_2\Exp4_2\bin\Debug\Exp4_2.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 4\Exp4_2\Exp4_2\bin\Debug\Exp4_2.pdb
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 4\Exp4_2\Exp4_2\bin\Debug\Exp4_2.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 4\Exp4_2\Exp4_2\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 4\Exp4_2\Exp4_2\obj\Debug\Exp4_2.vbproj.GenerateResource.Cache
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 4\Exp4_2\Exp4_2\obj\Debug\Exp4_2.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 4\Exp4_2\Exp4_2\obj\Debug\Exp4_2.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 4\Exp4_2\Exp4_2\obj\Debug\Exp4_2.pdb

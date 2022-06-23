@@ -1,0 +1,9 @@
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Practicals\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Practicals\Palindrome\Palindrome\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Practicals\Palindrome\Palindrome\obj\Debug\Palindrome.vbproj.GenerateResource.Cache
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Practicals\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Practicals\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Practicals\Palindrome\Palindrome\bin\Debug\Palindrome.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Practicals\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Practicals\Palindrome\Palindrome\obj\Debug\Palindrome.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Practicals\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

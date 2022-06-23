@@ -1,0 +1,4 @@
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Login screen\Login screen\Login screen\bin\Debug\Login screen.exe.config
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Login screen\Login screen\Login screen\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Login screen\Login screen\Login screen\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Login screen\Login screen\Login screen\obj\Debug\Login screen.vbproj.GenerateResource.Cache

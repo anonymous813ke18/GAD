@@ -1,0 +1,11 @@
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 12\Exp12_1\Exp12_1\bin\Debug\Exp12_1.exe.config
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 12\Exp12_2\Exp12_1\bin\Debug\Exp12_1.exe.config
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 12\Exp12_2\Exp12_1\bin\Debug\Exp12_1.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 12\Exp12_2\Exp12_1\bin\Debug\Exp12_1.pdb
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 12\Exp12_2\Exp12_1\bin\Debug\Exp12_1.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 12\Exp12_2\Exp12_1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 12\Exp12_2\Exp12_1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 12\Exp12_2\Exp12_1\obj\Debug\Exp12_1.vbproj.GenerateResource.Cache
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 12\Exp12_2\Exp12_1\obj\Debug\Exp12_1.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 12\Exp12_2\Exp12_1\obj\Debug\Exp12_1.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 12\Exp12_2\Exp12_1\obj\Debug\Exp12_1.pdb

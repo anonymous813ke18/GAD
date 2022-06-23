@@ -1,0 +1,10 @@
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 24\Exp24_2\Exp24_2\bin\Debug\Exp24_2.exe.config
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 24\Exp24_2\Exp24_2\bin\Debug\Exp24_2.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 24\Exp24_2\Exp24_2\bin\Debug\Exp24_2.pdb
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 24\Exp24_2\Exp24_2\bin\Debug\Exp24_2.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 24\Exp24_2\Exp24_2\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 24\Exp24_2\Exp24_2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 24\Exp24_2\Exp24_2\obj\Debug\Exp24_2.vbproj.GenerateResource.Cache
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 24\Exp24_2\Exp24_2\obj\Debug\Exp24_2.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 24\Exp24_2\Exp24_2\obj\Debug\Exp24_2.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 24\Exp24_2\Exp24_2\obj\Debug\Exp24_2.pdb

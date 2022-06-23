@@ -1,0 +1,10 @@
+C:\Users\Khan\AppData\Local\Temporary Projects\radio_checkbox.vb\bin\Debug\radio_checkbox.vb.exe.config
+C:\Users\Khan\AppData\Local\Temporary Projects\radio_checkbox.vb\obj\Debug\radio_checkbox.vb.Form1.resources
+C:\Users\Khan\AppData\Local\Temporary Projects\radio_checkbox.vb\obj\Debug\radio_checkbox.vb.Resources.resources
+C:\Users\Khan\AppData\Local\Temporary Projects\radio_checkbox.vb\obj\Debug\radio_checkbox.vb.vbproj.GenerateResource.Cache
+C:\Users\Khan\AppData\Local\Temporary Projects\radio_checkbox.vb\bin\Debug\radio_checkbox.vb.exe
+C:\Users\Khan\AppData\Local\Temporary Projects\radio_checkbox.vb\bin\Debug\radio_checkbox.vb.pdb
+C:\Users\Khan\AppData\Local\Temporary Projects\radio_checkbox.vb\bin\Debug\radio_checkbox.vb.xml
+C:\Users\Khan\AppData\Local\Temporary Projects\radio_checkbox.vb\obj\Debug\radio_checkbox.vb.exe
+C:\Users\Khan\AppData\Local\Temporary Projects\radio_checkbox.vb\obj\Debug\radio_checkbox.vb.xml
+C:\Users\Khan\AppData\Local\Temporary Projects\radio_checkbox.vb\obj\Debug\radio_checkbox.vb.pdb

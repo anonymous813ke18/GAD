@@ -1,0 +1,10 @@
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 13\Exp13_4\Exp13_4\bin\Debug\Exp13_4.exe.config
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 13\Exp13_4\Exp13_4\bin\Debug\Exp13_4.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 13\Exp13_4\Exp13_4\bin\Debug\Exp13_4.pdb
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 13\Exp13_4\Exp13_4\bin\Debug\Exp13_4.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 13\Exp13_4\Exp13_4\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 13\Exp13_4\Exp13_4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 13\Exp13_4\Exp13_4\obj\Debug\Exp13_4.vbproj.GenerateResource.Cache
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 13\Exp13_4\Exp13_4\obj\Debug\Exp13_4.exe
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 13\Exp13_4\Exp13_4\obj\Debug\Exp13_4.xml
+C:\Users\Khan\OneDrive\Desktop\GAD\Experiments\Experiment 13\Exp13_4\Exp13_4\obj\Debug\Exp13_4.pdb
